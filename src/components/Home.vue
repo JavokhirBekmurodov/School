@@ -87,7 +87,7 @@ export default {
 .main__title {
   text-align: center;
   max-width: 600px;
-  font-size: 50px;
+  font-size: 51px;
   margin: auto;
   padding-top: 15%;
 }
